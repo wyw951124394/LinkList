@@ -1,5 +1,7 @@
 #ifndef __LINKLIST_H_
 
+#define firstPos 0
+
 enum Comparison
 {
 	equal, greater, smaller
